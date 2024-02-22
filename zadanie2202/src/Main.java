@@ -9,6 +9,10 @@ public class Main {
         Random rand=new Random();
 
     }
+
+    public static void FillArrayWithRandomData(int[][] array){
+        for(int i=0; i<array.length;);
+    }
     public static int GetRandomNumber(int max){
         Random rand=new Random();
         return rand.nextInt(max);
